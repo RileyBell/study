@@ -4,3 +4,4 @@
 ### [3일차 - Apache와 Tomcat을 같이 사용하는 이유?](https://github.com/hermes7308/NTS-Cafe/wiki/3%EC%9D%BC%EC%B0%A8-Apache%EC%99%80-Tomcat%EC%9D%84-%EA%B0%99%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%3F)
 ### [4일차 - 아파치와 톰켓 연동 하기](https://github.com/hermes7308/NTS-Cafe/wiki/4%EC%9D%BC%EC%B0%A8-%EC%95%84%ED%8C%8C%EC%B9%98%EC%99%80-%ED%86%B0%EC%BC%93-%EC%97%B0%EB%8F%99-%ED%95%98%EA%B8%B0)
 ### [6일차 - Spring 프로젝트 생성 가이드](https://github.com/hermes7308/NTS-Cafe/wiki/6%EC%9D%BC%EC%B0%A8-Spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EA%B0%80%EC%9D%B4%EB%93%9C)
+### [9일차 - Apache, Tomcat ](https://github.com/hermes7308/NTS-Cafe/wiki/9%EC%9D%BC%EC%B0%A8-Apache,-Tomcat-%EB%B0%B0%ED%8F%AC-%EC%84%A4%EC%A0%95)
