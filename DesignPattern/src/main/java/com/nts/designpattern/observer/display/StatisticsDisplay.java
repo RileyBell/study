@@ -43,11 +43,11 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 		return total / temperatures.size();
 	}
 
-	private float getMax(){
+	private float getMax() {
 		return Collections.max(temperatures);
 	}
 
-	private float getMin(){
+	private float getMin() {
 		return Collections.min(temperatures);
 	}
 }

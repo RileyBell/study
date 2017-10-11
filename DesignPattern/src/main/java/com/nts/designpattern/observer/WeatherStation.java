@@ -5,7 +5,7 @@ import com.nts.designpattern.observer.display.ForecastDisplay;
 import com.nts.designpattern.observer.display.StatisticsDisplay;
 
 public class WeatherStation {
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		WeatherData weatherData = new WeatherData();
 
 		CurrentConditionsDisplay currentDisply = new CurrentConditionsDisplay(weatherData);

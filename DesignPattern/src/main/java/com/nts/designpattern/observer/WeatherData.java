@@ -30,7 +30,7 @@ public class WeatherData implements Subject {
 		}
 	}
 
-	public void measurementsChaged() {
+	public void measurementsChanged() {
 		notifyObservers();
 	}
 
@@ -38,7 +38,7 @@ public class WeatherData implements Subject {
 		this.temperature = temperature;
 		this.humidity = humidity;
 		this.pressure = pressure;
-		measurementsChaged();
+		measurementsChanged();
 	}
 
 	// 기타 WeatherData 메소드
