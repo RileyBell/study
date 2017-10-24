@@ -1,6 +1,5 @@
 package com.nts.designpattern.command.simple;
 
-
 public class RemoteControlTest {
 
 	public static void main(String[] args) {
@@ -11,5 +10,4 @@ public class RemoteControlTest {
 		remote.setCommand(lightOn);
 		remote.buttonWasPressed();
 	}
-
 }
